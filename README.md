@@ -48,7 +48,7 @@ La falacia de la restrospectiva se refleja fácilmente en el popular juego llama
 
 
 ### REVOLUCIÓN CIENTIFICA (hace 500 años)
-La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear), o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación).
+La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear) aunque este mecanismo ha sido el mayor mecanismo de paz, o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación y contaminación).
 
 La ciencia moderna difiere de las tradiciones previas en 3 puntos claves.  
 *  La disposición a admitir la ignorancia. 
@@ -60,7 +60,13 @@ Menciones especiales a proyectos importantes.
 *  Proyecto Gilgamesh (vida eterna) 
 *  Extremidades humanas (seres humanos con accesorios o extremidades electrónicas muy superiores a las actuales). 
 *  Cerebro humanos ( La que personalmente me llama más la atención al ser la que posiblemente nos podría causar el desarrollo más grande, ya que si un cerebro llegara a reproducirse en un computador, grandes mentes podrían recrearse en un computador a pensar y experimentar todo el día, es más, con el nivel de computación actual podríamos poder poner a pensar esta misma persona varias veces en varios computadores diferentes distintas cosas, algo controversial, ya que si las maquinas lograran algún día pensar de la manera tan particular como lo hacen los humanos con la potencia con la que gozan actualmente, para los seres humanos se volvería inútil la actividad de pensar ya que casi 
-nunca podrían llegar a una conclusión no antes descubierta por una máquina y plantearía un debate filosófico de que tan bueno podría ser este avance. 
+nunca podrían llegar a una conclusión no antes descubierta por una máquina y plantearía un debate filosófico de que tan bueno podría ser este avance.  
+Notas relevantes:  
+*  Cada año la población Estadounidense gasta más dinero en dietas que lo necesario para acabar cn el hambre mundial.
+*  No hay razón para pensar que os humanos actuales sean más inteligentes, solo más especializados.
+*  Cada año muere más gente por suicidio que por guerras y crimenes.
+*  Nuestra visión sbre el pasado está sesgada por eventos recientes.
+*  La felicidad, según la ciencia y el budismo viene únicamente de adentro.
 
 
 
