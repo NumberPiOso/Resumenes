@@ -12,7 +12,8 @@ La humanidad es una simple población de mamíferos la cual se ha destacado sobr
 Neardentales, homo sapiens, homo erectus, homo soloensus, homo forisiensis, homo desinova,... todas son especies de humanos que existieron y a excepción de una todas están extintas, esto nos quiere decir que el ser humano en sí mismo se ha enfrentado a problemas de extinción (algo natural actualmente en una población de rinoceronte blanco pero impensable en los homo sapiens).\ 
 Ocurre la revolución cognitiva la cual brinda la oportunidad a los homo sapiens de imaginar, hablar, comunicar principalmente.Esto causa una gran cooperación entre los sapiens alrededor de mitos tales como lo son las empresas, el dinero o los dioses. Esta cooperación posiciona da al sapiens una ventaja competitiva muy alta sobre todos los mamíferos, incluyendo las otras especies de humanos existentes.\
 Esta cooperación alrededor de mitos permite al sapiens la fácil adaptación de comportamientos y hábitos sin la necesidad de que haya un cambio genético o que se necesite de una mutación. Esto fue lo que se denotó como “pasarse por alto el genoma” y es una característica única de los sapiens. Ejemplo: En 1789 el pueblo Francés pasó en muy poco tiempo de aceptar el derecho divino de los reyes a reclamar la soberanía del pueblo. Algo inesperado en una población de lobos. 
-Aun así el genoma sigue teniendo una alta incidencia en el comportamiento de los humanos, por ejemplo actualmente aunque los humanos no sufren de déficit de alimentos, (un problema típico en la vida de un cazador-recolector) sus genes les siguen pidiendo que coman toda la comida dulce que puedan para mantenerse sanos, algo que actualmente es contraproducente con el objetivo de mantenerse sanos. \
+Aun así el genoma sigue teniendo una alta incidencia en el comportamiento de los humanos, por ejemplo actualmente aunque los humanos no sufren de déficit de alimentos, (un problema típico en la vida de un cazador-recolector) sus genes les siguen pidiendo que coman toda la comida dulce que puedan para mantenerse sanos, algo que actualmente es contraproducente con el objetivo de mantenerse sanos.
+
 Esta rápida ventaja de los seres humanos les permitió posicionarse sobre la cadena alimenticia muy rápidamente, lo cual causó un desequilibrio de poder. Por ejemplo 23 de las 24 especies de animales en Australia se extinguieron hace 45000 años. Así que en realidad los seres humanos no se han vuelto destructores masivos de hábitats y extinguidor de especies desde la revolución industrial, sino que en realidad desde que lograron una tan alta cooperación entre ellos el resto de especies no tuvo manera de competir.
 
 
@@ -28,21 +29,22 @@ Ocurren 3 corrientes principales de humanismo, el liberal que reconoce cada ser 
 
 ### LA FALACIA DE LA RETROSPECTIVA 
 Mirando hacia el pasado todo se ve muy lógico, pero ¿hacia el futuro? No es tan fácil predecir que va a pasar con la globalización, la religión, la naturaleza o la tecnología. Es más una revolución es axiomáticamente impredecible, ya que en caso de predecirse que va a ocurrir una revolución, el cambio se haría gradualmente lo cual hace que ya no sea considerada revolución. 
-Es un tema recurrente que tanto las religiones como las culturas en algunos casos son como parásitos que se alimentan de la vida de las personas que le dan entrada. La historia en realidad no se dirige a mejorar el bienestar humano, no hay base para pensar que las mejores culturas hayan sido las culturas que han tenido más éxito.\
+Es un tema recurrente que tanto las religiones como las culturas en algunos casos son como parásitos que se alimentan de la vida de las personas que le dan entrada. La historia en realidad no se dirige a mejorar el bienestar humano, no hay base para pensar que las mejores culturas hayan sido las culturas que han tenido más éxito.
 
 
 ### REVOLUCIÓN CIENTIFICA 
-La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear), o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación).\
+La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear), o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación).
 
-La ciencia moderna difiere de las tradiciones previas en 3 puntos claves.\ 
-• La disposición a admitir la ignorancia. 
-• La centralidad de observaciones matemáticas. 
-• Adquisición de nuevos poderes. 
-Esto logra denotar el descubrimiento de la ignorancia, clave principal de la revolución científica. 
+La ciencia moderna difiere de las tradiciones previas en 3 puntos claves.  
+*  La disposición a admitir la ignorancia. 
+*  La centralidad de observaciones matemáticas. 
+*  Adquisición de nuevos poderes. 
+Esto logra denotar el **descubrimiento de la ignorancia**, clave principal de la revolución científica.
+
 Menciones especiales a proyectos importantes. 
-• Proyecto Gilgamesh (vida eterna) 
-• Extremidades humanas (seres humanos con accesorios o extremidades electrónicas muy superiores a las actuales). 
-• Cerebro humanos ( La que personalmente me llama más la atención al ser la que posiblemente nos podría causar el desarrollo más grande, ya que si un cerebro llegara a reproducirse en un computador, grandes mentes podrían recrearse en un computador a pensar y experimentar todo el día, es más, con el nivel de computación actual podríamos poder poner a pensar esta misma persona varias veces en varios computadores diferentes distintas cosas, algo controversial, ya que si las maquinas lograran algún día pensar de la manera tan particular como lo hacen los humanos con la potencia con la que gozan actualmente, para los seres humanos se volvería inútil la actividad de pensar ya que casi 
+*  Proyecto Gilgamesh (vida eterna) 
+*  Extremidades humanas (seres humanos con accesorios o extremidades electrónicas muy superiores a las actuales). 
+*  Cerebro humanos ( La que personalmente me llama más la atención al ser la que posiblemente nos podría causar el desarrollo más grande, ya que si un cerebro llegara a reproducirse en un computador, grandes mentes podrían recrearse en un computador a pensar y experimentar todo el día, es más, con el nivel de computación actual podríamos poder poner a pensar esta misma persona varias veces en varios computadores diferentes distintas cosas, algo controversial, ya que si las maquinas lograran algún día pensar de la manera tan particular como lo hacen los humanos con la potencia con la que gozan actualmente, para los seres humanos se volvería inútil la actividad de pensar ya que casi 
 nunca podrían llegar a una conclusión no antes descubierta por una máquina y plantearía un debate filosófico de que tan bueno podría ser este avance. 
 
 
