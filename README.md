@@ -13,7 +13,9 @@ Neardentales, homo sapiens, homo erectus, homo soloensus, homo forisiensis, homo
 Ocurre la revolución cognitiva la cual brinda la oportunidad a los homo sapiens de imaginar, hablar, comunicar principalmente.Esto causa una gran cooperación entre los sapiens alrededor de mitos tales como lo son las empresas, el dinero o los dioses. Esta cooperación posiciona da al sapiens una ventaja competitiva muy alta sobre todos los mamíferos, incluyendo las otras especies de humanos existentes.\
 Esta cooperación alrededor de mitos permite al sapiens la fácil adaptación de comportamientos y hábitos sin la necesidad de que haya un cambio genético o que se necesite de una mutación. Esto fue lo que se denotó como “pasarse por alto el genoma” y es una característica única de los sapiens. Ejemplo: En 1789 el pueblo Francés pasó en muy poco tiempo de aceptar el derecho divino de los reyes a reclamar la soberanía del pueblo. Algo inesperado en una población de lobos. 
 Aun así el genoma sigue teniendo una alta incidencia en el comportamiento de los humanos, por ejemplo actualmente aunque los humanos no sufren de déficit de alimentos, (un problema típico en la vida de un cazador-recolector) sus genes les siguen pidiendo que coman toda la comida dulce que puedan para mantenerse sanos, algo que actualmente es contraproducente con el objetivo de mantenerse sanos. \
-Esta rápida ventaja de los seres humanos les permitió posicionarse sobre la cadena alimenticia muy rápidamente, lo cual causó un desequilibrio de poder. Por ejemplo 23 de las 24 especies de animales en Australia se extinguieron hace 45000 años. Así que en realidad los seres humanos no se han vuelto destructores masivos de hábitats y extinguidor de especies desde la revolución industrial, sino que en realidad desde que lograron una tan alta cooperación entre ellos el resto de especies no tuvo manera de competir. \\
+Esta rápida ventaja de los seres humanos les permitió posicionarse sobre la cadena alimenticia muy rápidamente, lo cual causó un desequilibrio de poder. Por ejemplo 23 de las 24 especies de animales en Australia se extinguieron hace 45000 años. Así que en realidad los seres humanos no se han vuelto destructores masivos de hábitats y extinguidor de especies desde la revolución industrial, sino que en realidad desde que lograron una tan alta cooperación entre ellos el resto de especies no tuvo manera de competir.
+
+
 ### REVOLUCIÓN AGRÍCOLA 
 Descrito en el libro como el mayor fraude de la historia, opinión basada en la conclusión de que la alimentación de los cazadores recolectores era mucho mejor en términos de variedad y vulnerabilidad que la alimentación de los campesinos. 
 Descrita como un error de cálculo, en el que los seres humanos creyeron que un sedentarismo y una domesticación de las plantas produciría una mejora en sus necesidades básicas para descubrir que habían cometido uno de los mayores errores de la historia, un error que no hubo manera de arreglar, ya que dado el crecimiento poblacional de los seres humanos durante esta revolución los modelos antiguos de caza-recolección no hubieran dado abasto con tanta gente. 
@@ -23,12 +25,16 @@ En general en todas las sociedades hay patriarcado, varias teorías se tratan en
 El ser humano en su necesidad de incidir en factores que no estaban a su alcance crea a los Dioses. (Hay toda una teoría presente sobre el avance de los cristianos, el desarrollo de las religiones y que causa los crecimientos de algunas y el decrecimiento de otras, este tema no se tratará en el 
 resumen, pero de quererlo pedirlo al correo osoriopabl@gmail.com). También crea sistemas políticos como el liberalismo, el comunismo comparable al nacimiento de las religiones. 
 Ocurren 3 corrientes principales de humanismo, el liberal que reconoce cada ser como un individuo ajeno al resto, enfocado en el desarrollo integral de la persona. El humanismo socialista, que reconoce el homo-sapiens como un colectivo y está basado en el bien común. Mientras el humanismo evolutivo dice que la humanidad es mutable, y que al haber varias especies de humanos, unos son diferentes clases de otros. 
+
 ### LA FALACIA DE LA RETROSPECTIVA 
 Mirando hacia el pasado todo se ve muy lógico, pero ¿hacia el futuro? No es tan fácil predecir que va a pasar con la globalización, la religión, la naturaleza o la tecnología. Es más una revolución es axiomáticamente impredecible, ya que en caso de predecirse que va a ocurrir una revolución, el cambio se haría gradualmente lo cual hace que ya no sea considerada revolución. 
-Es un tema recurrente que tanto las religiones como las culturas en algunos casos son como parásitos que se alimentan de la vida de las personas que le dan entrada. La historia en realidad no se dirige a mejorar el bienestar humano, no hay base para pensar que las mejores culturas hayan sido las culturas que han tenido más éxito. 
+Es un tema recurrente que tanto las religiones como las culturas en algunos casos son como parásitos que se alimentan de la vida de las personas que le dan entrada. La historia en realidad no se dirige a mejorar el bienestar humano, no hay base para pensar que las mejores culturas hayan sido las culturas que han tenido más éxito.\
+
+
 ### REVOLUCIÓN CIENTIFICA 
-La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear), o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación). 
-La ciencia moderna difiere de las tradiciones previas en 3 puntos claves. 
+La revolución que logró hacer crecer exponencialmente la población, la medicina y la tecnología. Esta revolución solo se volvió preocupante cuando amenazó acabar con la población humana (Bomba nuclear), o cuando amenaza acabar con los recursos necesarios para la subsistencia (sobrepoblación).\
+
+La ciencia moderna difiere de las tradiciones previas en 3 puntos claves.\ 
 • La disposición a admitir la ignorancia. 
 • La centralidad de observaciones matemáticas. 
 • Adquisición de nuevos poderes. 
@@ -41,12 +47,3 @@ nunca podrían llegar a una conclusión no antes descubierta por una máquina y 
 
 
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NumberPiOso/Resumenes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
